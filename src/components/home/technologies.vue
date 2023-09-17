@@ -3,9 +3,9 @@
       <v-row justify="center" align="center"  class="px-2">
         <v-col md="8" cols="12" sm="12" class="pa-md-10 pa-5" style="background-color: white;border-radius: 15px" >
           <p class="google-font gdg-h1 mb-2 grey--text text--darken-4">
-            Stay updated on the products you love
+            Technologies to be focused on
           </p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda incidunt fuga, architecto reprehenderit corporis necessitatibus! Eius quae voluptate provident iusto laudantium eum reprehenderit, officia aperiam odio et explicabo tenetur cupiditate.</p>
+          <p>At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.</p>
           <v-container fluid>
             <v-row justify="start" align="start">
               <v-col md="2" sm="2" cols="3" v-for="(item, index) in techs" :key="index">

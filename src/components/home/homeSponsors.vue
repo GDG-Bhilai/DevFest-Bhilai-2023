@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <v-container fluid class="google-font">
     <v-row class="my-0">
       <v-col md="12">
@@ -30,4 +30,4 @@ export default {
 </script>
 
 <style>
-</style>
+</style> -->

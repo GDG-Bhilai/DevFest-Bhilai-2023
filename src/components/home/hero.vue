@@ -45,7 +45,7 @@
           >Register Now
         </v-btn>
       </v-col>
-      <v-col md="4" cols="12" order-md="2" order-sm="1" class="google-font">
+      <!-- <v-col md="4" cols="12" order-md="2" order-sm="1" class="google-font">
         <v-container fluid class="px-0">
           <v-row>
             <v-col
@@ -65,7 +65,7 @@
             </v-col>
           </v-row>
         </v-container>
-      </v-col>
+      </v-col> -->
     </v-row>
     <!-- Row 2 -->
 

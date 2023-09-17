@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <v-container fluid class="pa-0">
     <v-row
       v-for="(item, index) in sponsorsInfo"
@@ -42,4 +42,4 @@ export default {
 </script>
 
 <style>
-</style>
+</style> -->
