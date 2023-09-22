@@ -42,7 +42,7 @@
           :href="devfestInfo.registration.link"
           v-if="devfestInfo.registration.status == 1"
           target="_blank"
-          >Register Now
+          >Submit Your Proposals
         </v-btn>
       </v-col>
       <!-- <v-col md="4" cols="12" order-md="2" order-sm="1" class="google-font">

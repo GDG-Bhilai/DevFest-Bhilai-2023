@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <v-main class="pa-0 ma-0">
     <v-container fluid class="my-10">
       <v-row>
@@ -39,4 +39,4 @@ export default {
 </script>
 
 <style>
-</style>
+</style> -->
