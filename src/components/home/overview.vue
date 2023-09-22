@@ -9,10 +9,7 @@
           What to Expect
         </p>
         <p>
-          An annual event hosted by the Google Developers Group across the world
-          to bring the technology closer to the developers. It is an all day
-          developer conference where we aim to focus on multiple technologies
-          through lightning talks, sessions, workshops, etc.
+          Get ready for the most anticipated annual event hosted by Google Developers Group Bhilai! DevFest Bhilai is all about bringing technology closer to developers like you. Join us for an immersive all-day developer conference where we'll dive deep into a multitude of cutting-edge technologies through lightning talks, insightful sessions, hands-on workshops, and more.
         </p>
         <v-container fluid class="px-0">
           <v-row>

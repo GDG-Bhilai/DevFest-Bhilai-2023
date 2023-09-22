@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <v-main class="pa-0 ma-0">
     <v-container fluid class="my-10">
       <v-row>
@@ -8,12 +8,10 @@
             class="google-font gdg-h1 mb-2 grey--text text--darken-4"
             style="font-size: 220%"
           >
-            Schedule
+            <!-- Schedule -->
           </p>
-          <p>
-            Follow code demonstrations by our expert speakers on different
-            tracks. Check out the schedule below and don't forget to mark your
-            calendar so that you don't miss out on any sessions.
+          <p style="font-size: 250%">
+            Exciting news! We're about to drop the schedule for our upcoming event. Stay tuned for session details. Get ready to plan your day and make the most of the event. Follow us on social media and mark your calendars!
           </p>
         </div>
           <v-toolbar flat class="px-0" style="border-radius: 15px">
@@ -57,4 +55,4 @@ export default {
 </script>
   
   <style>
-</style> -->
+</style>

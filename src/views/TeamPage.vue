@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <v-main class="pa-0 ma-0">
     <v-container fluid class="my-10">
       <v-row>
@@ -7,12 +7,10 @@
             class="google-font gdg-h1 mb-2 grey--text text--darken-4"
             style="font-size: 220%"
           >
-            Team
+            <!-- Team -->
           </p>
-          <p>
-            Whatever your challenge, these leaders on the front line of
-            transformation, innovation, and exploration helped solve it with
-            you.
+          <p style="font-size: 250%">
+            Stay tuned for the big reveal of our amazing event team. Meet the faces behind the scenes, the experts making it all happen. Watch this space for updates!
           </p>
         </v-col>
         
@@ -46,4 +44,4 @@ export default {
 </script>
   
   <style>
-</style> -->
+</style>
