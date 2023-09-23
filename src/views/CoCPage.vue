@@ -7,7 +7,7 @@
             Code of Conduct
           </p>
           <p class="my-0 mb-8 h1-subheading google-font">
-            All participants of DevFest India 2023 event, online attendees,
+            All participants of DevFest Bhilai 2023 event, online attendees,
             event staff, and speakers, must abide by the following policy:
           </p>
           <v-container fluid class="ma-0 pa-0">
@@ -18,9 +18,9 @@
                 v-for="(item, index) in cocData"
                 :key="index"
               >
-                <!-- <v-avatar color="#4285f4" size="35">
+                <v-avatar color="#4285f4" size="35">
                         <span class="white--text text-h6">{{index+1}}</span>
-                      </v-avatar> -->
+                      </v-avatar>
                 <p class="google-font" style="font-size: 1.5em">
                   <b>{{ item.name }}</b>
                 </p>
