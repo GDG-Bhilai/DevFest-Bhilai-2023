@@ -1,6 +1,6 @@
-# DevFest Web App 2023
-Standard Web App for DevFest's Events. <br>
-Show some ❤️ and star the repo to support the project
+# DevFest Bhilai 2023
+Web App for DevFest Bhilai 2023. <br>
+Show some ❤️ and star the repo and contribute to this open-source project
 
 ![image](https://github.com/GDG-Bhilai/DevFest-Bhilai-2023/blob/main/src/assets/screenshots/Screenshot%202023-09-24%20101459.png)
 
@@ -89,17 +89,8 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Contributors
-<b>Maintainer:</b> [Vrijraj Singh](https://github.com/vrijraj) <br>
-
-### View Website Built with Projects
-
-| Community Name | Web App Link |
-| --- | --- |
-| GDG X| [View Now](https://gdg.community.dev) |
-
 ## LICENSE
-Check out the developer [LICENSE](https://github.com/vrijraj/devfest-website-2023/blob/main/LICENSE)
+Check out the developer [LICENSE](https://github.com/GDG-Bhilai/DevFest-Bhilai-2023/blob/main/LICENSE)
 
 ## Facing Any Problem or need any Help?
-Write us in [issues](https://github.com/vrijraj/devfest-website-2023/issues) section. Our team will try solve your issue within 10-12 hours.<br>
+Write us in [issues](https://github.com/GDG-Bhilai/DevFest-Bhilai-2023/issues) section. Our team will try solve your issue within 10-12 hours.<br>
