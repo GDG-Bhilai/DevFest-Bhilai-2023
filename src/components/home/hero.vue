@@ -35,6 +35,7 @@
           {{ devfestInfo.desc.short }}
         </p>
         <v-btn
+        style="margin-top: 6px;"
           dark
           depressed
           rounded
@@ -42,9 +43,31 @@
           :href="devfestInfo.registration.link"
           v-if="devfestInfo.registration.status == 1"
           target="_blank"
-          >Submit Your Proposals
+          >Call For Speakers
+        </v-btn>
+        <v-btn
+          dark
+          depressed
+          rounded
+          color="#F3F6FB"
+          :href="devfestInfo.community.link"
+          v-if="devfestInfo.community.status == 1"
+          target="_blank"
+          >
+        </v-btn>
+        <v-btn ml="6"
+          style="margin-top: 6px;"
+          dark
+          depressed
+          rounded
+          color="#4285F4"
+          :href="devfestInfo.community.link"
+          v-if="devfestInfo.community.status == 1"
+          target="_blank"
+          >Sponsor Us
         </v-btn>
       </v-col>
+      
       <!-- <v-col md="4" cols="12" order-md="2" order-sm="1" class="google-font">
         <v-container fluid class="px-0">
           <v-row>
@@ -81,6 +104,7 @@ export default {
     loading: true,
     communityInfo: communityJSON,
     devfestInfo: devfestJSON,
+    devfestCommunity: devfestJSON,
   }),
   methods: {},
 };

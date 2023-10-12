@@ -56,7 +56,7 @@
         v-if="devfestInfo.registration.status==1"
         :href="devfestInfo.registration.link"
         style="text-transform: none; font-size: 80%; font-weight: 500"
-        >Submit Your Proposals</v-btn
+        >Call for Speakers</v-btn
       >
     </div>
   </v-app-bar>

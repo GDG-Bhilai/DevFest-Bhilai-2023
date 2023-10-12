@@ -50,12 +50,12 @@
             
   
             <br class="hidden-md-and-up">
-            <router-link
+            <!-- <router-link
               to="/faq"
               rel="noreferrer"
               class="mr-3 google-font grey--text text--darken-3"
               style="text-decoration:none;"
-            >FAQ</router-link>
+            >FAQ</router-link> -->
             <br class="hidden-md-and-up">
             <router-link to="/coc" style="text-decoration:none;" rel="noreferrer" class="mr-3 google-font grey--text text--darken-3">Code of conduct</router-link> 
             <br class="hidden-md-and-up">
@@ -64,6 +64,44 @@
               class="mr-4 google-font grey--text text--darken-3"
               style="text-decoration:none;"
             >Community Guidelines</a>
+
+              <br>
+
+            <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/privacy" target="_blank"
+              rel="noreferrer"
+              class="grey--text text--darken-3 mr-4 google-font"
+              style="text-decoration:none;"
+            >Privacy Policy</a>
+            <br class="hidden-md-and-up">
+
+            <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/terms" target="_blank"
+              rel="noreferrer"
+              class="grey--text text--darken-3 mr-4 google-font"
+              style="text-decoration:none;"
+            >Terms & Conditions</a>
+            <br class="hidden-md-and-up">
+
+            <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/refund" target="_blank"
+              rel="noreferrer"
+              class="grey--text text--darken-3 mr-4 google-font"
+              style="text-decoration:none;"
+            >Cancellation & Refund</a>
+            <br class="hidden-md-and-up">
+
+            <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/shipping" target="_blank"
+              rel="noreferrer"
+              class="grey--text text--darken-3 mr-4 google-font"
+              style="text-decoration:none;"
+            >Shipping</a>
+            <br class="hidden-md-and-up">
+
+            <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/contact_us" target="_blank"
+              rel="noreferrer"
+              class="grey--text text--darken-3 mr-4 google-font"
+              style="text-decoration:none;"
+            >Contact Us</a>
+            <br class="hidden-md-and-up">
+
           </v-col>
         </v-row>
       </v-container>
