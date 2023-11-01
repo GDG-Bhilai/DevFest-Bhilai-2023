@@ -1,8 +1,9 @@
 <template>
   <v-main class="pa-0 ma-0">
     <AppModal v-if="isDialogueVisible" @close="closeDialogue">
-      <h2>My Dialogue</h2>
-      <p>Dialogue content goes here.</p>
+      <!-- <h2>My Dialogue</h2>
+      <p>Dialogue content goes here.</p> -->
+      <img src="src/views/modal.png"/>
     </AppModal>
     <!-- Hero -->
     <heroVue class="my-md-5 my-sm-5" />

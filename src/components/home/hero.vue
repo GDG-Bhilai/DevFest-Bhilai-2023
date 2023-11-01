@@ -96,8 +96,10 @@
 </template>
 
 <script>
+// import {ref} from 'vue';
 import devfestJSON from "@/assets/data/devfests.json";
 import communityJSON from "@/assets/data/community.json";
+// import PopupTicket from './PopupTicket.vue';
 export default {
   name: "HeroComponent",
   data: () => ({

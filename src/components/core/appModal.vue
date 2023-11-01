@@ -39,8 +39,8 @@ export default {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  min-width: 500px;
-  min-height: 250px;
+  min-width: 600px;
+  min-height: 450px;
 }
 
 .modal-content button {
