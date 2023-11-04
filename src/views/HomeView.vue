@@ -1,9 +1,18 @@
 <template>
   <v-main class="pa-0 ma-0">
     <AppModal v-if="isDialogueVisible" @close="closeDialogue">
-      <!-- <h2>My Dialogue</h2>
-      <p>Dialogue content goes here.</p> -->
-      <img src="src/views/modal.png"/>
+      <a href="https://devfestbhilai2023.tech/">
+        <v-img
+          style="
+            border-radius: 15px;
+            max-width: 400px;
+            max-height: 400px;
+            align-items: center;
+            justify-content: center;
+          "
+          :src="require('@/assets/img/modal.png')"
+        ></v-img>
+      </a>
     </AppModal>
     <!-- Hero -->
     <heroVue class="my-md-5 my-sm-5" />
@@ -28,13 +37,13 @@
 </template>
 
 <script>
-import heroVue from "@/components/home/hero.vue"
-import overviewVue from "@/components/home/overview.vue"
-import technologiesVue from "@/components/home/technologies.vue"
-import homesponsors from "@/components/home/homeSponsors.vue"
-import homeSocialVue from "@/components/home/homeSocial.vue"
-import appModal from "@/components/core/appModal.vue"
-import AppModal from "@/components/core/appModal.vue"
+import heroVue from "@/components/home/hero.vue";
+import overviewVue from "@/components/home/overview.vue";
+import technologiesVue from "@/components/home/technologies.vue";
+import homesponsors from "@/components/home/homeSponsors.vue";
+import homeSocialVue from "@/components/home/homeSocial.vue";
+import appModal from "@/components/core/appModal.vue";
+import AppModal from "@/components/core/appModal.vue";
 
 export default {
   name: "HomePage",
@@ -50,20 +59,20 @@ export default {
   data() {
     return {
       isDialogueVisible: false,
-    }
+    };
   },
   methods: {
     showDialogue() {
-      this.isDialogueVisible = true
+      this.isDialogueVisible = true;
     },
     closeDialogue() {
-      this.isDialogueVisible = false
+      this.isDialogueVisible = false;
     },
   },
   mounted() {
     setTimeout(() => {
-      this.isDialogueVisible = true
-    }, 2000)
+      this.isDialogueVisible = true;
+    }, 1000);
   },
-}
+};
 </script>

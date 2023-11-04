@@ -1,6 +1,6 @@
 <template>
   <div class="modal">
-    <div class="modal-content">
+    <div class="modal-content" style="border-radius: 10px;">
       <slot></slot>
       <button @click="close">Close</button>
     </div>
@@ -34,14 +34,14 @@ export default {
 
 .modal-content {
   background: white;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 4px;
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  min-width: 600px;
-  min-height: 450px;
-}
+  min-width: 400px;
+  min-height: 400px;
+  }
 
 .modal-content button {
   margin-left: auto;
@@ -52,7 +52,7 @@ export default {
   border-radius: 5px;
   color: #fff;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 14px;
   padding: 8px 20px;
   box-shadow: 0px 3px 5px #f2f2f2;
 }

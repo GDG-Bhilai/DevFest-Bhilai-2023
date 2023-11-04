@@ -67,7 +67,7 @@
 
               <br>
 
-            <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/privacy" target="_blank"
+            <!-- <a href="https://merchant.razorpay.com/policy/MhLVr6S6qIxBR4/privacy" target="_blank"
               rel="noreferrer"
               class="grey--text text--darken-3 mr-4 google-font"
               style="text-decoration:none;"
@@ -100,7 +100,7 @@
               class="grey--text text--darken-3 mr-4 google-font"
               style="text-decoration:none;"
             >Contact Us</a>
-            <br class="hidden-md-and-up">
+            <br class="hidden-md-and-up"> -->
 
           </v-col>
         </v-row>

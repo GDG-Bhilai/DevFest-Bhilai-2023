@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <v-dialog v-model="dialog" width="700" scrollable>
     <template v-slot:activator="{ on, attrs }">
       <div class="text-center">
@@ -23,6 +23,7 @@
         </div>
         <v-chip class="mt-n7" small :color="item.type=='Core'?'primary':'blue accent-1'">{{item.type}} Team</v-chip>
       </div>
+      
     </template>
     <v-card v-if="dialog" style="border-radius: 12px">
       <v-card-text class="pa-0 google-font">
@@ -77,7 +78,7 @@
         </v-container>
       </v-card-text>
 
-      <!-- <v-divider></v-divider> -->
+      <v-divider></v-divider>
 
       <v-card-actions>
         <v-spacer></v-spacer>
@@ -110,4 +111,4 @@ export default {
     },
   },
 };
-</script> -->
+</script>
