@@ -35,7 +35,7 @@
           {{ devfestInfo.desc.short }}
         </p>
         <v-btn
-        style="margin-top: 6px;"
+        style="margin-top: 6px; height: 5rem; width: 15rem; font-size: 1.5rem;"
           dark
           depressed
           rounded
@@ -43,9 +43,9 @@
           :href="devfestInfo.registration.link"
           v-if="devfestInfo.registration.status == 1"
           target="_blank"
-          >Call For Speakers
+          >Book Tickets
         </v-btn>
-        <v-btn
+        <!-- <v-btn
           dark
           depressed
           rounded
@@ -65,7 +65,7 @@
           v-if="devfestInfo.community.status == 1"
           target="_blank"
           >Sponsor Us
-        </v-btn>
+        </v-btn> -->
       </v-col>
       
       <!-- <v-col md="4" cols="12" order-md="2" order-sm="1" class="google-font">

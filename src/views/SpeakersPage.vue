@@ -3,15 +3,15 @@
     <v-container fluid class="my-10">
       <v-row>
         <v-col md="12" sm="12" cols="12" class="text-center  google-font">
-          <p
+          <!-- <p
             class="google-font gdg-h1 mb-2 grey--text text--darken-4"
             style="font-size: 220%"
           >
             Speakers
-          </p>
-          <!-- <p style="font-size: 250%">
-            The anticipation is building! We're about to unveil our exceptional lineup of speakers. Get ready to be inspired by the best in the industry. Stay tuned for updates!
           </p> -->
+          <p style="font-size: 250%">
+            The anticipation is building! We're about to unveil our exceptional lineup of speakers. Get ready to be inspired by the best in the industry. Stay tuned for updates!
+          </p>
         </v-col>
         <v-col md="2" cols="6" sm="3" v-for="(item, index) in speakersInfo" :key="index">
           <speakerCardVue :item="item"/>

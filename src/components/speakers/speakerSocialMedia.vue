@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <div>
     <v-btn icon class="mr-1" target="_blank" :href="item.linkedin" v-if="item.linkedin.length">
       <v-icon>mdi-linkedin</v-icon>
@@ -20,4 +20,4 @@ export default {
 </script>
 
 <style>
-</style> -->
+</style>

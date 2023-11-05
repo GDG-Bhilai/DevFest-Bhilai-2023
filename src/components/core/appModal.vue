@@ -34,7 +34,7 @@ export default {
 
 .modal-content {
   background: white;
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 4px;
   display: flex;
   flex-direction: column;

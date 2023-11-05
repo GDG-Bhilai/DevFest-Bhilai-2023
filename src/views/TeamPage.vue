@@ -7,77 +7,11 @@
             class="google-font gdg-h1 mb-2 grey--text text--darken-4"
             style="font-size: 220%"
           >
-            Team
+            <!-- Team -->
           </p>
-          <!-- <p style="font-size: 250%">
+          <p style="font-size: 250%">
             Stay tuned for the big reveal of our amazing event team. Meet the faces behind the scenes, the experts making it all happen. Watch this space for updates!
-          </p> -->
-        </v-col>
-        
-        <v-col
-          md="2"
-          cols="6"
-          sm="3"
-          v-for="(item, index) in teamInfo"
-          :key="index"
-        >
-          <teamCardVue :item="item" />
-        </v-col>
-
-        <v-col
-          md="2"
-          cols="6"
-          sm="3"
-          v-for="(item, index) in teamInfo"
-          :key="index"
-        >
-          <teamCardVue :item="item" />
-        </v-col>
-
-        <v-col
-          md="2"
-          cols="6"
-          sm="3"
-          v-for="(item, index) in teamInfo"
-          :key="index"
-        >
-          <teamCardVue :item="item" />
-        </v-col>
-
-        <v-col
-          md="2"
-          cols="6"
-          sm="3"
-          v-for="(item, index) in teamInfo"
-          :key="index"
-        >
-          <teamCardVue :item="item" />
-        </v-col>
-
-        <v-col
-          md="2"
-          cols="6"
-          sm="3"
-          v-for="(item, index) in teamInfo"
-          :key="index"
-        >
-          <teamCardVue :item="item" />
-        </v-col>
-      </v-row>
-    </v-container>
-
-    <v-container fluid class="my-10">
-      <v-row>
-        <v-col md="12" sm="12" cols="12" class="text-center google-font">
-          <p
-            class="google-font gdg-h1 mb-2 grey--text text--darken-4"
-            style="font-size: 220%"
-          >
-            Volunteer
           </p>
-          <!-- <p style="font-size: 250%">
-            Stay tuned for the big reveal of our amazing event team. Meet the faces behind the scenes, the experts making it all happen. Watch this space for updates!
-          </p> -->
         </v-col>
         
         <v-col
