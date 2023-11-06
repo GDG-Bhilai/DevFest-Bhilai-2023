@@ -5,13 +5,13 @@
       <v-row>
         <v-col md="12" lg="12" class="d-block d-sm-block d-md-none px-0">
           <p class="google-font gdg-heading mb-0 grey--text text--darken-4">
-            DevFest Badge
+            DevFest Bhilai Badge
           </p>
           <p class="my-0 mb-8 h1-subheading google-font">
-            Now that you are here, how about personalising your DevFest India
+            Now that you are here, how about personalising your DevFest Bhilai
             2023 profile? Upload an image and generate a personalised badge with
-            the DevFest India 2023 frame. Also share your image using
-            #DevFestIndia on different social platforms.
+            the DevFest Bhilai 2023 frame. Also share your image using
+            #DevFestBhilai on different social platforms.
           </p>
         </v-col>
       </v-row>
@@ -25,13 +25,13 @@
         >
           <div class="d-none d-sm-none d-md-block mb-10">
             <p class="google-font gdg-h1 mb-0 grey--text text--darken-4">
-              DevFest Badge
+              DevFest Bhilai Badge
             </p>
             <p class="google-font" style="font-size: 18px">
-              Now that you are here, how about personalising your DevFest India
-              2023 profile? Upload an image and generate a personalised badge
-              with the DevFest India 2023 frame. Also share your image using
-              #DevFestIndia on different social platforms.
+              Now that you are here, how about personalising your DevFest Bhilai
+            2023 profile? Upload an image and generate a personalised badge with
+            the DevFest Bhilai 2023 frame. Also share your image using
+            #DevFestBhilai on different social platforms.
             </p>
           </div>
           <div class="input">

@@ -19,7 +19,7 @@
           class="google-font gdg-h1 mb-4 grey--text text--darken-4"
           style="font-size: 200%; line-height: 40px"
         >
-          DevFest 2023<br />
+          DevFest Bhilai 2023<br />
           <span style="color: #4285f4">{{ communityInfo.community_name }}</span>
         </p>
         <p class="google-font mt-3 mb-0" style="font-size: 19px">

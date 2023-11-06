@@ -1,7 +1,7 @@
 <template>
   <v-main class="pa-0 ma-0">
     <AppModal v-if="isDialogueVisible" @close="closeDialogue">
-      <a href="https://devfest-bhilai-ticket-2023.netlify.app/">
+      <a href="https://konfhub.com/checkout/devfest-bhilai-2023?ticketId" target="_blank">
         <v-img
           style="
             border-radius: 15px;
