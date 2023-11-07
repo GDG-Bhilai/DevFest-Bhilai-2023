@@ -25,8 +25,13 @@
         <p class="google-font mt-3 mb-0" style="font-size: 19px">
           <v-icon>mdi-calendar-month</v-icon> {{ devfestInfo.date }}
         </p>
+        <a href="https://maps.app.goo.gl/ptyQbuwK76CEK7qr7" style="text-decoration: none;">
         <p class="google-font mt-0" style="font-size: 19px">
-          <v-icon>mdi-clock-time-eight-outline</v-icon> {{ devfestInfo.time }}
+          <v-icon>mdi-map-marker-outline</v-icon> {{ devfestInfo.time }}
+        </p>
+        </a>
+        <p class="google-font mt-0" style="font-size: 19px">
+          <v-icon>mdi-clock-time-eight-outline</v-icon> {{ devfestInfo.time1 }}
         </p>
         <p
           class="google-font text--secondary"
