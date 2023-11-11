@@ -1,6 +1,6 @@
 [
     {
-        "id": "6001",
+        "id": "6000",
         "name": "Kartikey Rawat",
         "company": {
             "name": "Organizer",
@@ -12,18 +12,18 @@
         "social": {
             "linkedin": "https://linkedin.com/in/carrycooldude",
             "twitter": "https://twitter.com/carrycooldude",
-            "web": "https://instagram.com/carrycooldude"
+            "web": "https://gdg.community.dev/u/mrp35t/"
         },
-        "type":"Core"
+        "type":"Organizer"
     },
     {
-        "id": "6002",
-        "name": "Vrijraj Singh",
+        "id": "6001",
+        "name": "Niket Jain",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "Android Developer",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
+        "community_title": "Mutual Mobiles",
         "image": "",
         "bio": "Vrijraj is a dedicated Tech Lead at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
         "social": {
@@ -31,22 +31,124 @@
             "twitter": "asd",
             "web": "asd"
         },
-        "type":"Core"
+        "type":"Organizer"
     },
     {
         "id": "6002",
-        "name": "Vrijraj Singh",
+        "name": "Sanskriti Harmukh",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "GitHub Campus Expert",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "Vrijraj is a dedicated Tech Lead at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+        "community_title": "Bhilai Institute of Technology",
+        "image": "Sanskriti Harmukh.jpg",
+        "bio": "Spreading Code and Cloud with a side of witty advocacy!",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/sanskriti-harmukh/",
+            "twitter": "https://twitter.com/Senzkriti",
+            "web": "https://gdg.community.dev/u/mrp35t/"
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6003",
+        "name": "Mohd. Toukir Khan",
+        "company": {
+            "name": "GitHub Campus Expert",
+            "designation": ""
+        },
+        "community_title": "Shri Shankaracharya Technical Campus, Bhilai",
+        "image": "Toukir Khan.jpg",
+        "bio": "A Senior at SSTC, Bhilai. I am a member at Mozilla Durg and a GitHub Campus Expert. My interests are inclined towards Community Management. I have been contributing to communities since 2022 and I would love to continue my strides to bring in more for the community. I am also a Postman Student Leader and Beta Microsoft Learn Student Ambassador.",
+        "social": {
+            "linkedin": "https://linkedin.com/in/toukirkhan",
+            "twitter": "https://twitter.com/toukirkhan_",
+            "web": "https://gdg.community.dev/u/m5hxpd/"
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6004",
+        "name": "Dewansh Thakur",
+        "company": {
+            "name": "Full stack Developer",
+            "designation": ""
+        },
+        "community_title": "The Research School",
+        "image": "Dewansh Thakur.jpg",
+        "bio": "I'M A WEB DEVELOPER & OPEN SOURCE CONTRIBUTOR WITH A PASSION FOR CREATING INNOVATIVE PRODUCTS. WITH OVER 4 YEARS OF EXPERIENCE, I'VE CONTRIBUTED TO PROJECTS LIKE PROCESSING FOUNDATION. ",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/dewanshthakur/",
+            "twitter": "https://twitter.com/ThakurDewansh",
+            "web": "https://dewansh.space/"
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6005",
+        "name": "Isha Dewangan",
+        "company": {
+            "name": "Content Lead",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Bhilai",
+        "image": "Isha Dewangan.jpg",
+        "bio": "Isha is a grad student persuing computer science, her curiosity regarding tech, food and culture makes her learn new things. She is also a passionate tech content writer and blogger and loves to explore on various subjects regarding tech and tech related news. She is also involved in communities and enjoys doing community work and engaging with fellow tech-savvys. Her major passion in development is with web developement and generative AI. She's still a learner but very enthusiastic about technology and communities. Also she is a super weeb and love to indulge her time watching anime(and also crime thrillers)in her peace hours.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/isha-dewangan",
+            "twitter": "https://x.com/tsundere_Isha",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6006",
+        "name": "Harsh Vardhan",
+        "company": {
+            "name": "Student",
+            "designation": ""
+        },
+        "community_title": "Rungta college of Engineering & Technology",
+        "image": "Harsh Vardhan.jpg",
+        "bio": "Am a tech geek passionate about technology and interested in android development",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/devharsh2k4",
+            "twitter": "https://x.com/devharsh2k4",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6007",
+        "name": "Rishita R Nair",
+        "company": {
+            "name": "Student",
+            "designation": ""
+        },
+        "community_title": "Rungta college of Engineering & Technology",
+        "image": "Rishita.jpg",
+        "bio": "I'm Rishita R Nair, a member of GDG Bhilai. I'm passionate about technology and tech communities, and enjoy app development using Android Studio and Flutter. When I'm not coding, I'm exploring my interests, which include listening to podcasts, dancing, and learning new skills.",
+        "social": {
+            "linkedin": "http://www.linkedin.com/in/rishitanair",
+            "twitter": "https://twitter.com/rishitarnair",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6008",
+        "name": "Shubham Prasad",
+        "company": {
+            "name": "UI/UX Designer",
+            "designation": ""
+        },
+        "community_title": "Rungta college of Engineering & Technology",
+        "image": "Shubham Prasad.jpeg",
+        "bio": "Hey, This is Shubham Prasad. I am currently involved in GDG Bhilai as a UI/UX Designer, I like getting inspiration from different UX Perspectives and love to talk about that. Apart from that I practice Web Development in MERN Stack. Also, I possess a strong connection towards our community. Also, I like Sci-fi and Documentary movies and digital art and love to chat about it.",
+        "social": {
+            "linkedin": "hhttps://www.linkedin.com/in/shubham---prasad",
+            "twitter": "https://twitter.com/shuvbhamm",
+            "web": ""
         },
         "type":"Core"
     }

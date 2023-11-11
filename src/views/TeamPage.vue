@@ -7,11 +7,11 @@
             class="google-font gdg-h1 mb-2 grey--text text--darken-4"
             style="font-size: 220%"
           >
-            <!-- Team -->
+            Team
           </p>
-          <p style="font-size: 250%">
+          <!-- <p style="font-size: 250%">
             Stay tuned for the big reveal of our amazing event team. Meet the faces behind the scenes, the experts making it all happen. Watch this space for updates!
-          </p>
+          </p> -->
         </v-col>
         
         <v-col
