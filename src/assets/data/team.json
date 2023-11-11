@@ -245,11 +245,147 @@
             "designation": ""
         },
         "community_title": "Google Developer Groups Bhilai",
-        "image": "Maharshi Sinha.jpg",
+        "image": "Aditya Narayan Tiwari.jpg",
         "bio": "Creative Web Developer and Graphic Designer.",
         "social": {
             "linkedin": "https://www.linkedin.com/in/iadityanarayant/",
             "twitter": "https://x.com/iAdityaNarayanT",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6015",
+        "name": "Shahil Sinha",
+        "company": {
+            "name": "Co-Founder, DevBridge/PR Lead GDSC SSTC",
+            "designation": ""
+        },
+        "community_title": "Shri Shankaracharya Technical Campus, Bhilai",
+        "image": "Shahil Sinha.png",
+        "bio": "I'm Shahil Sinha, Co-Founder of DevBridge and currently serving as the Public Relations Lead at GDSC SSTC. My passion lies in graphic design and video editing, where I enjoy bringing ideas to life through creative visuals and compelling narratives. With a knack for building strong connections, I excel in public relations, leveraging design to communicate effectively and engage audiences on a deeper level.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/shahil-sinha-7b1636222/",
+            "twitter": "https://twitter.com/ShahilSinha9",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6016",
+        "name": "Shalini Pareek",
+        "company": {
+            "name": "Student",
+            "designation": ""
+        },
+        "community_title": "Chhattisgarh swami vivekanand technical university",
+        "image": "Shalini Pareek.jpg",
+        "bio": "As a B. Tech CSE (AI) student, I have a strong foundation in various programming languages, including Python, C, C++, JavaScript, and R. My current focus is on web development projects, where I am actively applying my technical skills to create valuable solutions. I am dedicated to further expanding my knowledge in technology and languages to excel in my field.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/shalini-pareek-929315229/",
+            "twitter": "https://twitter.com/ShaliniPareek37",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6017",
+        "name": "Siddharth Raj",
+        "company": {
+            "name": "Volunteer",
+            "designation": ""
+        },
+        "community_title": "RCET, BHILAI",
+        "image": "Siddharth Raj.jpg",
+        "bio": "I'm a versatile professional with a passion for technology. As a skilled web developer, editor, and UI/UX designer, I bring creativity and functionality to the digital world. With a deep knowledge of technology, I'm dedicated to creating seamless, user-friendly experiences and pushing the boundaries of what's possible in the digital realm.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/siddharth-raj-6750b1207",
+            "twitter": "https://twitter.com/siddharthraj30",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6018",
+        "name": "Tulika Lunkad",
+        "company": {
+            "name": "Student at BIT, Durg",
+            "designation": ""
+        },
+        "community_title": "Bhilai Institute Of Technology Durg",
+        "image": "Tulika Lunkad.jpg",
+        "bio": "I am a student at Bhilai Institute Of Technology, Durg and a tech enthusiast. Right now learning about web development and loves to contribute, has good writing skills. Also to do research and know more about tech, doing some project works and also learning new coding languages. Right now working as a Volunteer at DevFest 2023 Bhilai (GDG) and contributing as a content writer. As of now having the first experience nourishing skills more and more and contribute towards many such works in future. As her favourite passtime she loves to read books and is fond of drawing. Also the best leisure time according to her is travelling and exploring the world around.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/tulika-lunkad-9a6536255",
+            "twitter": "https://x.com/tulika2504",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6019",
+        "name": "Aaisha Khan",
+        "company": {
+            "name": "Volunteer/ PostGrad student",
+            "designation": ""
+        },
+        "community_title": "Swami Shri swaroopanand,hudco",
+        "image": "Aaisha khan.jpg",
+        "bio": "Ni hao (Hello)! I'm a passionate biotechnologist and data science enthusiast who has a deep appreciation for patterns and designs. I'm always ready to learn new things and expand my horizons. Beyond my scientific interests, I love to engage with the diverse psychology of people and understand the intricacies of human behavior. As a nature lover, I find solace in the beauty of the natural world. Additionally, I have a keen interest in learning new languages, allowing me to connect with people from different cultures and perspectives. I'm on a continuous journey of growth and discovery, where science, nature, and the complexities of human experience intersect.Xie Xie!!",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/curioaaishakhan12",
+            "twitter": "https://twitter.com/DD5098109696563",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6020",
+        "name": "Shubham Kumar Khilari",
+        "company": {
+            "name": "Volunteer, Devfest Bhilai'23",
+            "designation": ""
+        },
+        "community_title": "IIIT Naya Raipur",
+        "image": "Shubham khilari.jpg",
+        "bio": "Shubham, a freelance designer known for his work's commitment to simplicity and clarity, creates mesmerising yet straightforward posters. He's also an ML enthusiast selected for the Amazon ML Summer School and is actively enhancing his front-end development skills. Shubham's diverse talents and dedication make him a dynamic professional ready to excel in design and development.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/shubham-k-b156921a5/",
+            "twitter": "https://twitter.com/shubhamkhilarii",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6021",
+        "name": "Tanu Shree",
+        "company": {
+            "name": "Video Editor",
+            "designation": ""
+        },
+        "community_title": "Bhilai Institute of Technology, Durg",
+        "image": "Tanu Shree.jpg",
+        "bio": "My passion majorly lies in Video Editing. Apart from this I also like to participate in sport activities like Cricket and Badminton. I possess a strong passion for technology and thrive on the opportunity to delve into its intricacies, continually seeking opportunities to explore and expand my knowledge in this dynamic field. My tech skills mainly include initials of Frontend Development and Designing stuff.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/tanu-shree-95525b255",
+            "twitter": "https://twitter.com/TanuABD",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6022",
+        "name": "Raj Bhardwaj",
+        "company": {
+            "name": "Tech Lead",
+            "designation": ""
+        },
+        "community_title": "Google Developer Student Club RCET",
+        "image": "Raj Bhardwaj.jpg",
+        "bio": "I'm Raj Bhardwaj, a second-year Computer Science and Engineering student at Rungta College Of Engineering and Technology. With two internships under my belt and roles as a Microsoft Learn Student Ambassador, Tech Lead at GDSC, and Postman Student Expert, I'm passionate about technology. I specialize in backend development, and I've been crafting industry-standard back-end solutions for over a year. I'm also proud to have won Hackathons at top IITs. Beyond coding, I'm a chess enthusiast and enjoy the art of cinematography. Let's explore the tech world together!",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/raj-bhardwaj-2a5064248",
+            "twitter": "https://x.com/raj_lerner",
             "web": ""
         },
         "type":"Volunteer"
