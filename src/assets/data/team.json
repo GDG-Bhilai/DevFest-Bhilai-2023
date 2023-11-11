@@ -159,7 +159,7 @@
             "name": "Beta Microsoft Learn Student Amabssador",
             "designation": ""
         },
-        "community_title": "Bhilai Institute of Technology Durg ",
+        "community_title": "Bhilai Institute of Technology Durg",
         "image": "Rishabh Singh.png",
         "bio": "I'm Rishabh Singh, a third-year student studying Computer Science Engineering. I'm passionate about developing apps with Flutter. I'm a Microsoft Learn Student Ambassador, where I help fellow students learn about Microsoft technologies through events and presentations. I'm also a Google Cloud Certified Digital Leader and a Postman Student Expert. I contribute as an influencer at Google Crowdsource, where I work on various projects. I love networking with professionals and tech enthusiasts to keep up with the ever-changing tech world. In my free time, I explore new tech developments and enjoy sharing my knowledge with others. I'm excited about learning and collaborating more in the future.",
         "social": {
@@ -168,5 +168,90 @@
             "web": ""
         },
         "type":"Core"
+    },
+    {
+        "id": "6010",
+        "name": "Sitanshu Lall",
+        "company": {
+            "name": "Student",
+            "designation": ""
+        },
+        "community_title": "Bhilai Institute of Technology Durg",
+        "image": "Sitanshu Lall.jpeg",
+        "bio": "Passionate and driven third-year engineering student with a strong interest in problem-solving and web development. Currently honing my skills in Data Structures and Algorithms (DSA) by actively solving coding challenges on various platforms. Eager to explore the world of web development and currently focused on learning ReactJS to build dynamic and user-friendly applications. Seeking opportunities to apply my technical knowledge and contribute to meaningful projects.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/sitanshulall/",
+            "twitter": "https://twitter.com/SitanshuLall",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6011",
+        "name": "Akshat Sahu",
+        "company": {
+            "name": "Student at SSTC",
+            "designation": ""
+        },
+        "community_title": "SSTC",
+        "image": "Akshat Sahu.jpg",
+        "bio": "Hello! I'm Akshat, a final year Computer Science Engineering student with a passion for graphic design and UI/UX. I've embarked on a journey to learn backend programming. Apart from coding and design, I also enjoy video editing and creative direction. I love bringing stories to life through visual narratives and crafting unique, compelling content. I'm always eager to learn, grow, and take on new challenges",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/akshat-sahu-912521216/",
+            "twitter": "https://twitter.com/akshatx134",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6012",
+        "name": "Aditi Sharma",
+        "company": {
+            "name": "3rd year CS undergrad",
+            "designation": ""
+        },
+        "community_title": "Bhilai institute of technology durg",
+        "image": "ADITI SHARMA.jpg",
+        "bio": "I am a third year CS undergrad at Bhilai Institute of Technology, Durg. I am a web developer enthusiast proficient in MERN Stack. I love exploring different technologies and you will often find me connecting with like minded individuals in our vibrant tech community.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/aditi-sharma-622393238/",
+            "twitter": "https://x.com/adiiteeaaa",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6013",
+        "name": "Maharshi Sinha",
+        "company": {
+            "name": "Postman Student Leader, Former GDSC Lead ",
+            "designation": ""
+        },
+        "community_title": "Government Engineering College, Jagdalpur",
+        "image": "Maharshi Sinha.jpg",
+        "bio": "I am a pre-final year pursuing a B.Tech in Electronics & Telecommunication, possessing a strong sense of community and an ardent passion for Flutter, web development, and hackathons. My belief in technology's ability to foster connections and promote inclusivity has led me to participate actively in several tech communities.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/maharshi-sinha-78b1001b7/",
+            "twitter": "https://x.com/sinha_maharshi",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6014",
+        "name": "Aditya Narayan Tiwari",
+        "company": {
+            "name": "Volunteer",
+            "designation": ""
+        },
+        "community_title": "Google Developer Groups Bhilai",
+        "image": "Maharshi Sinha.jpg",
+        "bio": "Creative Web Developer and Graphic Designer.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/iadityanarayant/",
+            "twitter": "https://x.com/iAdityaNarayanT",
+            "web": ""
+        },
+        "type":"Volunteer"
     }
 ]
