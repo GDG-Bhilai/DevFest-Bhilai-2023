@@ -146,8 +146,25 @@
         "image": "Shubham Prasad.jpeg",
         "bio": "Hey, This is Shubham Prasad. I am currently involved in GDG Bhilai as a UI/UX Designer, I like getting inspiration from different UX Perspectives and love to talk about that. Apart from that I practice Web Development in MERN Stack. Also, I possess a strong connection towards our community. Also, I like Sci-fi and Documentary movies and digital art and love to chat about it.",
         "social": {
-            "linkedin": "hhttps://www.linkedin.com/in/shubham---prasad",
+            "linkedin": "https://www.linkedin.com/in/shubham---prasad",
             "twitter": "https://twitter.com/shuvbhamm",
+            "web": ""
+        },
+        "type":"Core"
+    },
+    {
+        "id": "6009",
+        "name": "Rishabh Singh",
+        "company": {
+            "name": "Beta Microsoft Learn Student Amabssador",
+            "designation": ""
+        },
+        "community_title": "Bhilai Institute of Technology Durg ",
+        "image": "Rishabh Singh.png",
+        "bio": "I'm Rishabh Singh, a third-year student studying Computer Science Engineering. I'm passionate about developing apps with Flutter. I'm a Microsoft Learn Student Ambassador, where I help fellow students learn about Microsoft technologies through events and presentations. I'm also a Google Cloud Certified Digital Leader and a Postman Student Expert. I contribute as an influencer at Google Crowdsource, where I work on various projects. I love networking with professionals and tech enthusiasts to keep up with the ever-changing tech world. In my free time, I explore new tech developments and enjoy sharing my knowledge with others. I'm excited about learning and collaborating more in the future.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/singhrishabh1670",
+            "twitter": "https://www.twitter.com/singhrishabh93",
             "web": ""
         },
         "type":"Core"
