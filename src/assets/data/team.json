@@ -29,7 +29,7 @@
         "social": {
             "linkedin": "https://www.linkedin.com/in/niketjain8/",
             "twitter": "https://x.com/nikeight",
-            "web": "asd"
+            "web": ""
         },
         "type":"Organizer"
     },
@@ -326,10 +326,10 @@
         "id": "6019",
         "name": "Aaisha Khan",
         "company": {
-            "name": "Volunteer/ PostGrad student",
+            "name": "Volunteer",
             "designation": ""
         },
-        "community_title": "Swami Shri swaroopanand,hudco",
+        "community_title": "Swami Shri Swaroopanand, Hudco",
         "image": "Aaisha khan.jpg",
         "bio": "Ni hao (Hello)! I'm a passionate biotechnologist and data science enthusiast who has a deep appreciation for patterns and designs. I'm always ready to learn new things and expand my horizons. Beyond my scientific interests, I love to engage with the diverse psychology of people and understand the intricacies of human behavior. As a nature lover, I find solace in the beauty of the natural world. Additionally, I have a keen interest in learning new languages, allowing me to connect with people from different cultures and perspectives. I'm on a continuous journey of growth and discovery, where science, nature, and the complexities of human experience intersect.Xie Xie!!",
         "social": {
@@ -341,7 +341,7 @@
     },
     {
         "id": "6020",
-        "name": "Shubham Kumar Khilari",
+        "name": "Shubham Ku.Khilari",
         "company": {
             "name": "Volunteer, Devfest Bhilai'23",
             "designation": ""
