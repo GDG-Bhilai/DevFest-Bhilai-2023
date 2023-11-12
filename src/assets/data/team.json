@@ -20,15 +20,15 @@
         "id": "6001",
         "name": "Niket Jain",
         "company": {
-            "name": "Android Developer",
+            "name": "Android Engineer",
             "designation": ""
         },
-        "community_title": "Mutual Mobiles",
-        "image": "",
-        "bio": "Vrijraj is a dedicated Tech Lead at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+        "community_title": "Mutual Mobile",
+        "image": "Niket Jain.jpg",
+        "bio": "Niket is a professional Android developer, with deep interest in Mobile Development and UX. Actively contributing to the GDG Bhilai and GDG Raipur community by conducting various workshops and technical talks. Also have keen interest in Game Development and Backend development. Apart from technical work, he love to spent some time playing video games, Chess and Snooker.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
+            "linkedin": "https://www.linkedin.com/in/niketjain8/",
+            "twitter": "https://x.com/nikeight",
             "web": "asd"
         },
         "type":"Organizer"
