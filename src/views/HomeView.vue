@@ -1,8 +1,8 @@
 <template>
   <v-main class="pa-0 ma-0">
     <AppModal v-if="isDialogueVisible" @close="closeDialogue">
-      <!-- <a href="https://maps.app.goo.gl/ptyQbuwK76CEK7qr7" target="_blank"> -->
-      <a href="https://konfhub.com/checkout/devfest-bhilai-2023?ticketId=10672" target="_blank">
+      <a href="https://maps.app.goo.gl/ptyQbuwK76CEK7qr7" target="_blank">
+      <!-- <a href="https://konfhub.com/checkout/devfest-bhilai-2023?ticketId=10672" target="_blank"> -->
         <v-img
           style="
             border-radius: 15px;
