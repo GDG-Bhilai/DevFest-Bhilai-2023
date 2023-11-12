@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <v-dialog v-model="dialog" width="700" scrollable>
     <template v-slot:activator="{ on, attrs }">
       <div class="text-center">
@@ -21,7 +21,7 @@
           </p>
           <p class="my-0" style="font-size: 80%">{{ item.company.name }}</p>
         </div>
-        <v-chip class="mt-n7" small :color="item.type=='Core'?'primary':'blue accent-1'">{{item.type}} Team</v-chip>
+        <v-chip class="mt-n7" small :color="item.type=='Organizer' ?'primary':'blue accent-1'">{{item.type}} Team</v-chip>
       </div>
       
     </template>
@@ -111,4 +111,4 @@ export default {
     },
   },
 };
-</script>
+</script> -->
