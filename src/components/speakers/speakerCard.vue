@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <v-dialog v-model="dialog" width="700" scrollable>
     <template v-slot:activator="{ on, attrs }">
       <div
@@ -150,4 +150,4 @@ export default {
     },
   },
 };
-</script> -->
+</script>

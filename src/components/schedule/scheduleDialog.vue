@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <v-dialog v-model="dialog" width="800" scrollable>
     <template v-slot:activator="{ on }">
       <div v-on="on" style="cursor: pointer" class="py-3 ma-1 fill-height">
@@ -169,4 +169,4 @@ export default {
   object-fit: cover;
   object-position: center;
 }
-</style> -->
+</style>

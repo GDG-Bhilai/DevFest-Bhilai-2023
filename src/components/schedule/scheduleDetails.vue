@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <v-container fluid class="pa-0 ma-0" v-if="data" style="">
     <v-row
       justify="center"
@@ -58,4 +58,4 @@ export default {
 .col-border-white {
   border-left: 1px solid #e0e0e0;
 }
-</style> -->
+</style>

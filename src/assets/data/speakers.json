@@ -1,98 +1,98 @@
 [
     {
         "id": "101",
-        "name": "Vrijraj Singh",
+        "name": "Shubham Jain",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "SDE-3 @Tide",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "Vrijraj is a dedicated Tech Lead at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+        "community_title": "",
+        "image": "shubham-jain.png",
+        "bio": "Mobile Development Engineer III at Tide, previously worked at Frontier Wallet as an Flutter Engineer. Speaker at Polygon Guild Delhi 2022. Mentored various Hackathons and Judged the Hackathon Hackhound hosted at SRM University.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/someshubham/",
+            "twitter": "",
+            "web": ""
         }
     },
     {
         "id": "102",
-        "name": "Vrijraj Singh",
+        "name": "Ashita Prasad",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "Creator, fluttergems.dev",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "",
+        "community_title": "",
+        "image": "ashita-prasad.png",
+        "bio": "Ashita is a die hard Flutterista and creator of Flutter Gems (https://fluttergems.dev), a curated Flutter package guide which is trusted by more than 500k Flutter developers across the globe.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://linkedin.com/in/ashitaprasad",
+            "twitter": "https://twitter.com/ashitaprasad",
+            "web": "https://ashitaprasad.github.io/"
         }
     },
     {
         "id": "103",
-        "name": "Vrijraj Singh",
+        "name": "Anish Kumar",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "Senior Architect @Capgemini",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "",
+        "community_title": "",
+        "image": "anish-kumar.png",
+        "bio": "Anish is a seasoned technologist with application development, system administration and architecture experience in building & transforming enterprise solutions in Telecom, Pension, Logistics and E-commerce domain. He is Senior Architect at Capgemini and has experience in Architecting Greenfield & Brownfield for Cloud, Cloud Native and DevSecOps solutions.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/anishkumars/",
+            "twitter": "https://twitter.com/_anishk_",
+            "web": ""
         }
     },
     {
         "id": "104",
-        "name": "Vrijraj Singh",
+        "name": "Tarun R Jain",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "DevRel at AI Planet",
+            "designation": " GDE in ML"
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "",
+        "community_title": "",
+        "image": "tarun-r-jain.jpg",
+        "bio": "I am Tarun Jain, currently working as a DevRel and Data Scientist at AI Planet, a Belgium-based AI startup. I also talk at workshops that are organized at IITs as a contract of being Community Lead at Embedchain.ai. So far I have delivered 4 talks as the Community lead at - NSIT, IIT Bombay, IIT Ropar, and IIT Delhi. I was also part of Google Summer of Code 2023 at caMicroscope. I have been organizing workshops and AI/ML talks for over 1.5+ years as a Pie & AI Bangalore Ambassador at DeepLearningAI. This eventually led to the path of becoming a GDE in ML. I joined the Google Developer Experts program in October 2023. In my free time, I watch Anime and read Manga- One Piece being my favorite.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://linkedin.com/in/jaintarun75",
+            "twitter": "https://linkedin.com/in/jaintarun75",
+            "web": "https://tarunjain.netlify.app/"
         }
     },
     {
         "id": "105",
-        "name": "Vrijraj Singh",
+        "name": "Rutvik Tak",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "Building @getpieces",
+            "designation": "maker of AppShots.co"
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "",
+        "community_title": "",
+        "image": "rutvik-tak.jpeg",
+        "bio": "Building @getpieces, maker of AppShots.co and crafting things through creative coding with Flutter💙",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/rutvik-tak-046196191/",
+            "twitter": "https://twitter.com/TakRutvik",
+            "web": "https://medium.com/@TakRutvik"
         }
     },
     {
         "id": "106",
-        "name": "Vrijraj Singh",
+        "name": "Aakash Sinha",
         "company": {
-            "name": "agprop",
-            "designation": "Tech Lead"
+            "name": "Software Developer and Architect",
+            "designation": ""
         },
-        "community_title": "Google Developer Expert for Firebase & Web",
-        "image": "",
-        "bio": "",
+        "community_title": "",
+        "image": "aakash-sinha.jpeg",
+        "bio": "Java Developer with 3+ years of experience in software development. Strong background in design patterns, software architecture and deep understanding of OOP principles. Passionate about creating efficient and scalable solutions.",
         "social": {
-            "linkedin": "asd",
-            "twitter": "asd",
-            "web": "asd"
+            "linkedin": "https://www.linkedin.com/in/aakashsinha46/",
+            "twitter": "https://twitter.com/aakashsinha46",
+            "web": "https://www.aakashsinha.in/"
         }
     },
     {

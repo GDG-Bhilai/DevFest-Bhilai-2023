@@ -2,13 +2,13 @@
     {
         "id": "1001",
         "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
-        "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
+        "title": "A Journey from Conversations to Code with Behavior-Driven Development in Flutter",
+        "description": "",
+        "track": "Mobile",
+        "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Nov 26, 2023",
         "timeDuration": "40",
         "speakers": [
             101
@@ -17,46 +17,106 @@
     {
         "id": "1002",
         "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "The Missing Guide to Packaging & Distributing Flutter Desktop apps",
+        "description": "",
+        "track": "Mobile",
         "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Nov 26, 2023",
         "timeDuration": "40",
         "speakers": [
-            101
+            102
         ]
     },
     {
         "id": "1003",
         "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "GitOps Observability",
+        "description": "",
+        "track": "Cloud",
         "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Nov 26, 2023",
         "timeDuration": "40",
         "speakers": [
-            102, 101
+            103
         ]
     },
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
+        "title": "Large Language Models Fine Tuning Recipes",
+        "description": "",
+        "track": "Machine Learning",
+        "link": "",
+        "time": "06:00 PM to 06:35 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 26, 2023",
+        "timeDuration": "40",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "Flutter Shaders - A whole new world",
+        "description": "",
+        "track": "Mobile",
+        "link": "",
+        "time": "06:00 PM to 06:35 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 26, 2023",
+        "timeDuration": "40",
+        "speakers": [
+            105
+        ]
+    },
+    {
+        "id": "1006",
+        "slide": "",
+        "title": "Design Patterns and Principles, Deployment on Google Cloud",
+        "description": "",
         "track": "Web",
         "link": "",
         "time": "06:00 PM to 06:35 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Nov 26, 2023",
         "timeDuration": "40",
         "speakers": [
-            102
+            106
+        ]
+    },
+    {
+        "id": "1007",
+        "slide": "",
+        "title": "Large Language Models Fine Tuning Recipes",
+        "description": "",
+        "track": "Machine Learning",
+        "link": "",
+        "time": "06:00 PM to 06:35 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 26, 2023",
+        "timeDuration": "40",
+        "speakers": [
+            107
+        ]
+    },
+    {
+        "id": "1008",
+        "slide": "",
+        "title": "Large Language Models Fine Tuning Recipes",
+        "description": "",
+        "track": "Machine Learning",
+        "link": "",
+        "time": "06:00 PM to 06:35 PM (IST)",
+        "format": "Day 1",
+        "date": "Nov 26, 2023",
+        "timeDuration": "40",
+        "speakers": [
+            108
         ]
     }
 ]
