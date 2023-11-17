@@ -6,10 +6,10 @@
         "description": "",
         "track": "Mobile",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             101
         ]
@@ -21,10 +21,10 @@
         "description": "",
         "track": "Mobile",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             102
         ]
@@ -36,10 +36,10 @@
         "description": "",
         "track": "Cloud",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             103
         ]
@@ -51,10 +51,10 @@
         "description": "",
         "track": "Machine Learning",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             104
         ]
@@ -66,10 +66,10 @@
         "description": "",
         "track": "Mobile",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             105
         ]
@@ -81,10 +81,10 @@
         "description": "",
         "track": "Web",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             106
         ]
@@ -92,14 +92,14 @@
     {
         "id": "1007",
         "slide": "",
-        "title": "Large Language Models Fine Tuning Recipes",
+        "title": "Building stuff with Frappe Framework.",
         "description": "",
-        "track": "Machine Learning",
+        "track": "Web",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             107
         ]
@@ -107,14 +107,14 @@
     {
         "id": "1008",
         "slide": "",
-        "title": "Large Language Models Fine Tuning Recipes",
+        "title": "Multi-tier application deployment on Google Kubernetes Engine (GKE)",
         "description": "",
-        "track": "Machine Learning",
+        "track": "Cloud",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "TBA",
         "format": "Day 1",
         "date": "Nov 26, 2023",
-        "timeDuration": "40",
+        "timeDuration": "TBA",
         "speakers": [
             108
         ]
