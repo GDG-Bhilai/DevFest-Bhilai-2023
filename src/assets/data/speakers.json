@@ -94,37 +94,5 @@
             "twitter": "https://twitter.com/aakashsinha46",
             "web": "https://www.aakashsinha.in/"
         }
-    },
-    {
-        "id": "107",
-        "name": "Harsh Tandiya",
-        "company": {
-            "name": "SWE Intern @ FOSS United",
-            "designation": ""
-        },
-        "community_title": "",
-        "image": "harsh-tandiya.jpg",
-        "bio": "Tinkerer and FOSS Evangelist. SWE at FOSS United. Learning, speaking, and talking about everything Open Source.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/harshtandiya/",
-            "twitter": "https://twitter.com/TandiyaHarsh",
-            "web": ""
-        }
-    },
-    {
-        "id": "108",
-        "name": "Sagar Utekar",
-        "company": {
-            "name": "SRE @VMware MTS2",
-            "designation": ""
-        },
-        "community_title": "",
-        "image": "",
-        "bio": "Open Source Enthusiastic. 5+ years of experience managing client-facing projects, troubleshooting technical issues, and working with engineering and customers. Experience maintaining internet facing production-grade applications in Virtualized environments.Experience writing software in Java, Python, Go, Node.js. Experience with cluster deployment and orchestration technologies using Chef, Salt, Ansible, Docker, Kubernetes, Helm, OpenStack, Jenkins, KOPS. Knowledge of managing Kubernetes in large production environments.Experience with monitoring and alerting infrastructure using ELK, Prometheus, Grafana, Pagerduty, Slack, Datadog. Experience with scalable networking technologies (e.g., Load Balancers, Firewalls) and web standards (e.g., REST APIs, web security mechanisms). Experience in system administration tasks in Linux, Unix, or Windows and familiarity with standard IT security practices (e.g., encryption, certificates, key management). Demonstrated understanding of open source server software (e.g., NGINX, RabbitMQ, Redis, Elasticsearch, etc).",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/sagar-utekar/",
-            "twitter": "https://twitter.com/me_sagar_utekar",
-            "web": ""
-        }
     }
 ]

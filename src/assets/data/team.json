@@ -170,23 +170,6 @@
         "type":"Core"
     },
     {
-        "id": "6010",
-        "name": "Sitanshu Lall",
-        "company": {
-            "name": "Student",
-            "designation": ""
-        },
-        "community_title": "Bhilai Institute of Technology Durg",
-        "image": "Sitanshu Lall.jpeg",
-        "bio": "Passionate and driven third-year engineering student with a strong interest in problem-solving and web development. Currently honing my skills in Data Structures and Algorithms (DSA) by actively solving coding challenges on various platforms. Eager to explore the world of web development and currently focused on learning ReactJS to build dynamic and user-friendly applications. Seeking opportunities to apply my technical knowledge and contribute to meaningful projects.",
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/sitanshulall/",
-            "twitter": "https://twitter.com/SitanshuLall",
-            "web": ""
-        },
-        "type":"Core"
-    },
-    {
         "id": "6011",
         "name": "Akshat Sahu",
         "company": {
@@ -335,6 +318,23 @@
         "social": {
             "linkedin": "https://www.linkedin.com/in/curioaaishakhan12",
             "twitter": "https://twitter.com/DD5098109696563",
+            "web": ""
+        },
+        "type":"Volunteer"
+    },
+    {
+        "id": "6010",
+        "name": "Sitanshu Lall",
+        "company": {
+            "name": "Student",
+            "designation": ""
+        },
+        "community_title": "Bhilai Institute of Technology Durg",
+        "image": "Sitanshu Lall.jpeg",
+        "bio": "Passionate and driven third-year engineering student with a strong interest in problem-solving and web development. Currently honing my skills in Data Structures and Algorithms (DSA) by actively solving coding challenges on various platforms. Eager to explore the world of web development and currently focused on learning ReactJS to build dynamic and user-friendly applications. Seeking opportunities to apply my technical knowledge and contribute to meaningful projects.",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/sitanshulall/",
+            "twitter": "https://twitter.com/SitanshuLall",
             "web": ""
         },
         "type":"Volunteer"

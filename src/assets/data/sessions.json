@@ -88,35 +88,5 @@
         "speakers": [
             106
         ]
-    },
-    {
-        "id": "1007",
-        "slide": "",
-        "title": "Building stuff with Frappe Framework.",
-        "description": "",
-        "track": "Web",
-        "link": "",
-        "time": "TBA",
-        "format": "Day 1",
-        "date": "Nov 26, 2023",
-        "timeDuration": "TBA",
-        "speakers": [
-            107
-        ]
-    },
-    {
-        "id": "1008",
-        "slide": "",
-        "title": "Multi-tier application deployment on Google Kubernetes Engine (GKE)",
-        "description": "",
-        "track": "Cloud",
-        "link": "",
-        "time": "TBA",
-        "format": "Day 1",
-        "date": "Nov 26, 2023",
-        "timeDuration": "TBA",
-        "speakers": [
-            108
-        ]
     }
 ]
